@@ -1,0 +1,110 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.4.1" last-modified="1452633743000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.4.1/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/BigML-SLw4xxRS/bin/python" value="true" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sender_meta-McP1P1U5/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Learning/Coursera/ML/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/Hippocrates/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/RIPLab/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/RIPLab/env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbCategories/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbCheckinImage/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbServer/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Projects/WedInvite/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/email-normalisator/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/photosite/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ABook/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ANode/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ChangeLogGen/env/bin/python2" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ClickhouseClient/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/Conjure/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/LogBroker/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/LogBrokerClient/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ML/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Magic/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/MicroML/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Sender/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/SenderEvents/env/bin/python3.5" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ZPMigration/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/yamail-diagnostics/env/bin/python" value="true" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="ssh://rubtsovdmv@ml-dev.cmail.yandex.net:22/home/rubtsovdmv/ml/env/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.local/share/virtualenvs/BigML-SLw4xxRS/bin/python" value="false" />
+        <entry key="$USER_HOME$/.local/share/virtualenvs/sender_meta-McP1P1U5/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Learning/Coursera/ML/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/Hippocrates/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/RIPLab/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/RIPLab/env/bin/python3" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbCategories/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbCheckinImage/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/VerbServer/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/WedInvite/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/email-normalisator/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Projects/photosite/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ABook/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ANode/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ChangeLogGen/env/bin/python2" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ClickhouseClient/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Conjure/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/LogBroker/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/LogBrokerClient/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/ML/env/bin/python" value="true" />
+        <entry key="$USER_HOME$/Documents/Work/Magic/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/MicroML/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/Sender/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/SenderEvents/env/bin/python3.5" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/ZPMigration/env/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/Work/yamail-diagnostics/env/bin/python" value="false" />
+        <entry key="/usr/bin/python" value="false" />
+        <entry key="ssh://rubtsovdmv@ml-dev.cmail.yandex.net:22/home/rubtsovdmv/ml/env/bin/python" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="Tool_External Tools_isort">
+    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+</keymap>
