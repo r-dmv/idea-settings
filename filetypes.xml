@@ -58,6 +58,7 @@
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="fact" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
