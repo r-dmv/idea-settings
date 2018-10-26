@@ -1,5 +1,5 @@
 <toolSet name="External Tools">
-  <tool name="isort" description="Sorting imports" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="isort" description="Sorting imports" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.local/share/virtualenvs/sender_meta-McP1P1U5/bin/isort" />
       <option name="PARAMETERS" value="$FilePath$" />
