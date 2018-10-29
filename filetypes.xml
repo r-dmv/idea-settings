@@ -2,21 +2,22 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="invite" type="PLAIN_TEXT" />
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
+      <mapping pattern="dirs" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping pattern="prerm" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
       <mapping pattern=".dp" type="PLAIN_TEXT" />
-      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="pool_passwd" type="PLAIN_TEXT" />
       <mapping pattern="rema_tvm" type="PLAIN_TEXT" />
       <mapping pattern="verbapp" type="PLAIN_TEXT" />
       <mapping pattern="mounts" type="PLAIN_TEXT" />
       <mapping pattern="Pipenv" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern="first" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="pgpass" type="PLAIN_TEXT" />
@@ -29,20 +30,19 @@
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
-      <mapping pattern="serial" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern="compat" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="defult" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern="prerm" type="PLAIN_TEXT" />
-      <mapping pattern="dirs" type="PLAIN_TEXT" />
-      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
+      <mapping pattern="serial" type="PLAIN_TEXT" />
+      <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="second" type="PLAIN_TEXT" />
       <mapping pattern="table" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -60,6 +60,7 @@
       <mapping ext="master" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="dirs" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
@@ -68,6 +69,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
+      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="include" type="PLAIN_TEXT" />
       <mapping ext="vcf" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
@@ -76,7 +78,6 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="static" type="PLAIN_TEXT" />
       <mapping ext="install" type="PLAIN_TEXT" />
-      <mapping ext="dirs" type="PLAIN_TEXT" />
       <mapping ext="celery" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
