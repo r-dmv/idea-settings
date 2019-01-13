@@ -3,47 +3,47 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="users" type="PLAIN_TEXT" />
-      <mapping pattern="postinst" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="invite" type="PLAIN_TEXT" />
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
+      <mapping pattern="dirs" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping pattern="prerm" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
       <mapping pattern=".dp" type="PLAIN_TEXT" />
-      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="pool_passwd" type="PLAIN_TEXT" />
       <mapping pattern="rema_tvm" type="PLAIN_TEXT" />
       <mapping pattern="verbapp" type="PLAIN_TEXT" />
       <mapping pattern="mounts" type="PLAIN_TEXT" />
       <mapping pattern="Pipenv" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern="first" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="pgpass" type="PLAIN_TEXT" />
       <mapping pattern="ssh_keys" type="PLAIN_TEXT" />
       <mapping pattern="logrotate" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="openrc" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
-      <mapping pattern="serial" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern="compat" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="defult" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
-      <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern="prerm" type="PLAIN_TEXT" />
-      <mapping pattern="dirs" type="PLAIN_TEXT" />
-      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
+      <mapping pattern="serial" type="PLAIN_TEXT" />
+      <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="second" type="PLAIN_TEXT" />
       <mapping pattern="table" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
@@ -55,6 +55,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
+      <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="account" type="PLAIN_TEXT" />
       <mapping ext="fact" type="PLAIN_TEXT" />
