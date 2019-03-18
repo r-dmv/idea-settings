@@ -22,4 +22,11 @@
     <keyboard-shortcut first-keystroke="alt i" />
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="latex.align_center" />
+  <action id="latex.align_left" />
+  <action id="latex.align_right" />
+  <action id="latex.bold" />
+  <action id="latex.italic" />
+  <action id="latex.underline" />
 </keymap>
