@@ -37,6 +37,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
+      <mapping pattern="not_users" type="PLAIN_TEXT" />
       <mapping pattern="compat" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
