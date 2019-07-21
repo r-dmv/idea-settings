@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="postinst" type="PLAIN_TEXT" />
+      <mapping pattern=".tvm.port" type="PLAIN_TEXT" />
       <mapping pattern="invite" type="PLAIN_TEXT" />
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
       <mapping pattern=".tvm.key" type="PLAIN_TEXT" />
