@@ -6,6 +6,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="invite" type="PLAIN_TEXT" />
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
+      <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
