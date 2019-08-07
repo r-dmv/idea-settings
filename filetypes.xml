@@ -62,6 +62,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="base" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="account" type="PLAIN_TEXT" />
       <mapping ext="fact" type="PLAIN_TEXT" />
