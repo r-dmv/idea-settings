@@ -49,6 +49,7 @@
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="serial" type="PLAIN_TEXT" />
+      <mapping pattern="fouras-ssl" type="PLAIN_TEXT" />
       <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="second" type="PLAIN_TEXT" />
       <mapping pattern="table" type="PLAIN_TEXT" />
@@ -71,6 +72,7 @@
       <mapping ext="dirs" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="testing" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
