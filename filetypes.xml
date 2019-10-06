@@ -12,13 +12,12 @@
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern=".tvm.key" type="PLAIN_TEXT" />
-      <mapping pattern="openrc" type="PLAIN_TEXT" />
+      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="replay" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
       <mapping pattern=".dp" type="PLAIN_TEXT" />
-      <mapping pattern="TEST" type="PLAIN_TEXT" />
       <mapping pattern="pool_passwd" type="PLAIN_TEXT" />
       <mapping pattern="rema_tvm" type="PLAIN_TEXT" />
       <mapping pattern="verbapp" type="PLAIN_TEXT" />
@@ -33,6 +32,7 @@
       <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".bumpversioncfg" type="PLAIN_TEXT" />
+      <mapping pattern="openrc" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
@@ -74,10 +74,10 @@
       <mapping ext="master" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="cron" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="testing" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
