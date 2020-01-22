@@ -70,6 +70,7 @@
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="account" type="PLAIN_TEXT" />
       <mapping ext="fact" type="PLAIN_TEXT" />
+      <mapping ext="lprof" type="PLAIN_TEXT" />
       <mapping ext="plan" type="PLAIN_TEXT" />
       <mapping ext="master" type="PLAIN_TEXT" />
       <mapping ext="tst" type="PLAIN_TEXT" />
