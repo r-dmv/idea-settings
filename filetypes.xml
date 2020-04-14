@@ -6,13 +6,14 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="users" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="postinst" type="PLAIN_TEXT" />
+      <mapping pattern=".tvm.port" type="PLAIN_TEXT" />
       <mapping pattern="invite" type="PLAIN_TEXT" />
       <mapping pattern="VagrantFile" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
-      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern=".tvm.key" type="PLAIN_TEXT" />
       <mapping pattern="TEST" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="control" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
       <mapping pattern="replay" type="PLAIN_TEXT" />
       <mapping pattern="categories" type="PLAIN_TEXT" />
@@ -22,11 +23,8 @@
       <mapping pattern="verbapp" type="PLAIN_TEXT" />
       <mapping pattern="mounts" type="PLAIN_TEXT" />
       <mapping pattern="Pipenv" type="PLAIN_TEXT" />
-      <mapping pattern="prerm" type="PLAIN_TEXT" />
-      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern="first" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="dirs" type="PLAIN_TEXT" />
       <mapping pattern="pgpass" type="PLAIN_TEXT" />
       <mapping pattern="not_users" type="PLAIN_TEXT" />
       <mapping pattern="ssh_keys" type="PLAIN_TEXT" />
@@ -36,23 +34,25 @@
       <mapping pattern=".bumpversioncfg" type="PLAIN_TEXT" />
       <mapping pattern="openrc" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
-      <mapping pattern=".tvm.port" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern=".tvm.key" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="install" type="PLAIN_TEXT" />
+      <mapping pattern="serial" type="PLAIN_TEXT" />
       <mapping pattern="htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="changelog" type="PLAIN_TEXT" />
       <mapping pattern="keys" type="PLAIN_TEXT" />
       <mapping pattern="compat" type="PLAIN_TEXT" />
       <mapping pattern="auth" type="PLAIN_TEXT" />
-      <mapping pattern="control" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="defult" type="PLAIN_TEXT" />
       <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
-      <mapping pattern="serial" type="PLAIN_TEXT" />
+      <mapping pattern="prerm" type="PLAIN_TEXT" />
       <mapping pattern="fouras-ssl" type="PLAIN_TEXT" />
-      <mapping pattern="postinst" type="PLAIN_TEXT" />
+      <mapping pattern="dirs" type="PLAIN_TEXT" />
+      <mapping pattern="Dokerfile" type="PLAIN_TEXT" />
       <mapping pattern="second" type="PLAIN_TEXT" />
       <mapping pattern="table" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
